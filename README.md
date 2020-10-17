@@ -2,7 +2,8 @@
 
 
 <div align= "center">
-  <h4>Churn Predication system built with  Keras/TensorFlow using Deep Learning concepts in order to detect face masks in static images as well as in real-time video streams.</h4>
+  <h4>Churn Predication system built with  Keras/TensorFlow using Deep Learning concepts in order to predicit churn analytics.</h4>
+  
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/arthur-hui-chung-shen-b58961170)
@@ -15,7 +16,6 @@
 Customer’s experience is one of the important concern for bank industries. This project presents a deep learning approach to analyse which factors contribute to customer churn and also to improve the customer’s experience and help banks to securely retain customers. 
 
  
-## Project Demo
 
 
 
@@ -26,14 +26,12 @@ Customer’s experience is one of the important concern for bank industries. Thi
 - [TensorFlow](https://www.tensorflow.org/)
 
 
-## Features
-
 ##  Dataset
 
 
 This dataset consists of __100000 customers__ details.
 
-The dataset were collected from the following sources
+The dataset were collected from the following sources:
 
 * __Kaggle datasets__ 
 
@@ -42,16 +40,10 @@ The dataset were collected from the following sources
 
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
-
-##  Working
-
+## Features
+ＩA method to use the dataset from Kaggle to train the predication model by Artificial Neural Network. Also, we use the test_dataset splited from dataset to do the test and get the good result.
 
 ## Results
-
-
-## Images
-
-
 
 
 
