@@ -50,5 +50,6 @@ All the dependencies and required libraries are included in the file <code>requi
 
 ## Owner
 Made with by [Arthur Hui-Chung Shen](https://github.com/ArthurShen8118)
+
 Email: arthurshen0829@gmail.com
 
