@@ -41,7 +41,7 @@ The dataset were collected from the following sources:
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/chandrikadeb7/Face-Mask-Detection/blob/master/requirements.txt)
 
 ## Features
-ＩA method to use the dataset from Kaggle to train the predication model by Artificial Neural Network. Also, we use the test_dataset splited from dataset to do the test and get the good result.
+A method to use the dataset from Kaggle to train the predication model by Artificial Neural Network. Also, we use the test_dataset splited from dataset to do the test and get the good result.
 
 ## Results
 
