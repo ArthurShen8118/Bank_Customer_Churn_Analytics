@@ -1,9 +1,12 @@
+
 <h1 align="center">Bank Customer Churn Analytics</h1>
 
 
 <div align= "center">
   <h4>Churn Predication system built with  Keras/TensorFlow using Deep Learning concepts in order to predicit churn analytics.</h4>
   
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/arthur-hui-chung-shen-b58961170)
@@ -45,9 +48,10 @@ A method to use the dataset from Kaggle to train the predication model by Artifi
 
 ## Results
 
+#### We got the following accuracy/loss training curve plot
+![](https://github.com/ArthurShen8118/Bank_Customers_Experience_Analysis/blob/main/Readme_images/Figure_1.png)
 
-
-
+![](https://github.com/ArthurShen8118/Bank_Customers_Experience_Analysis/blob/main/Readme_images/Figure_2.png)
 ## Owner
 Made with by [Arthur Hui-Chung Shen](https://github.com/ArthurShen8118)
 
