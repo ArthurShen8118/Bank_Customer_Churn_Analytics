@@ -47,7 +47,9 @@ All the dependencies and required libraries are included in the file <code>requi
 A method to use the dataset from Kaggle to train the predication model by Artificial Neural Network. Also, we use the test_dataset splited from dataset to do the test and get the good result.
 
 ## Results
-
+#### Accuracy: 0.8435
+#### Confusion Matrix
+![](https://github.com/ArthurShen8118/Bank_Customers_Experience_Analysis/blob/main/Readme_images/Figure_3.png)
 #### We got the following accuracy/loss training curve plot
 ![](https://github.com/ArthurShen8118/Bank_Customers_Experience_Analysis/blob/main/Readme_images/Figure_1.png)
 
