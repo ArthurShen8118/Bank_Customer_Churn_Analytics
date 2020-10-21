@@ -57,5 +57,5 @@ A method to use the dataset from Kaggle to train the predication model by Artifi
 ## Owner
 Made with by [Arthur Hui-Chung Shen](https://github.com/ArthurShen8118)
 
-Email: arthurshen0829@gmail.com
+Email: huichung.shen@gmail.com
 
